@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "sum_of_arr": "^1.2.0"
   }
 }
